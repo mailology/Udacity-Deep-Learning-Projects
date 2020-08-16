@@ -13,3 +13,5 @@ The Deep Learning nanodegree program consists of six parts: (1) Introduction to 
 **Project 4:** [Generate Faces] Learn and understand Generative Adversarial Networks (GAN). Implement a Deep Convolutional GAN which is made of a pair of multi-layer NN that compete against each other until one learns to generate realistic images of face.
 
 **Project 5:** [Deploy a Sentiment Analysis Model] In this project, we train and deploy a PyTorch sentiment analysis model using Amazon SageMaker on AWS. This model will be trained to do sentiment analysis on movie reviews (positive or negative reviews). A gate is created to accessing this model from a website.
+
+
